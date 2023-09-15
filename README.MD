@@ -9,8 +9,6 @@ We propose **DC-Rec** (**D**ual-**C**hannel Framework for **Rec**ommendation), a
 
 ![Architecture of DC-Rec](./architecture.png)
 
-The codes are being organized now and will be released soon.
-
-The source codes are currently undergoing organization and will be imminently released.
+## Introduction
 
 **Appendix.pdf** is the Appendix of our paper.
