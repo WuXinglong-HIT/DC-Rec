@@ -12,3 +12,5 @@ We propose **DC-Rec** (**D**ual-**C**hannel Framework for **Rec**ommendation), a
 ## Introduction
 
 **Appendix.pdf** is the Appendix of our paper.
+
+dataset folder contains NowPlaying and YooChoose datasets.
