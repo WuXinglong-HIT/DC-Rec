@@ -1,7 +1,8 @@
 # DC-Rec
 
 This Is the Official Implementation for Our Paper:
-> How to Bridge Graph and Sequence Patterns in Session-based Recommendation? A Self-Supervised Method
+> Xinglong Wu, Hui He, Zejun Wang, Yu Tai, Sheng Yin, Hongwei Yang, and Weizhe Zhang. "How to Bridge Graph and Sequence Patterns in Session-based Recommendation? A Self-Supervised Method." 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). IEEE, 2024, pp. 7805-7809.
+
 
 ## Overview
 
