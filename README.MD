@@ -8,6 +8,7 @@ This Is the Official Implementation for Our Paper:
 
 We propose **DC-Rec** (**D**ual-**C**hannel Framework for **Rec**ommendation), a contrastive bridge framework between sequential and structural patterns for session-based recommendations.
 
+![Architecture of DC-Rec](architecture.png)
 
 ## Introduction
 
